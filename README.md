@@ -1,4 +1,4 @@
-# Unity Eğitim Amaçlı Dört İşlem Oyunu (Online)
+# Unity Eğitim Amaçlı Dört İşlem Oyunu (Çevrimiçi)
 
 Unity, C#, Sql (2017)
 
