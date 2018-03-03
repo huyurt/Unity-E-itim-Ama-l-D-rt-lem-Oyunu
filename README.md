@@ -144,7 +144,7 @@ Kullanıcı istatistiğini görüntüleyebildiği sahnedeki Profil Düzenle buto
 
 Kullanıcı istatistik sahnesinde Çıkış Yap butonuna tıklayarak hesabından çıkış yapabilir ve böylece kullanıcı girişi sahnesine geri dönebilir.
 
-**1.2.** Oyun Yazılımı Genel Akış Şeması
+**1.3.** Oyun Yazılımı Genel Akış Şeması
 
 Projenin genel olarak akış şeması:
 
@@ -152,7 +152,7 @@ Projenin genel olarak akış şeması:
 
 Şekil 13. _Proje Akış Şeması_
 
-**1.3.** Veri Tabanı Yapısı
+**1.4.** Veri Tabanı Yapısı
 
 Projenin veri tabanı yapısı, sisteme kayıtlı olan kullanıcıların bilgilerinin saklandığı kullanicilar tablosu, kullanıcıların giriş yaptığı zaman kötü niyetli kişilerce oturum çalma işlemini engellemek amaçlı session bilgilerinin saklandığı sessions tablosu olmak üzere iki tablodan oluşmaktadır.
 
