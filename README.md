@@ -4,6 +4,8 @@ Unity, C#, Sql (2017)
 
 * [android için apk](http://bit.ly/2oF3Ku6)
 
+_Not: Uygulama, ücretsiz sunucu hesabı üzerinde çalıştığı için sunucu bazen çevrimdışı olabilir._
+
 Proje iki kısımdan oluşmaktadır:
 
 **Sunucu tarafı:** Sisteme oyunu kullanacak olan kullanıcıların kayıt edilmesinin kontrolünü, düzenlenmesini içerir. Bu işlemleri sistem yöneticisi takip eder. Sistem yöneticisi, sistemin sunucu tarafının kontrolünü, bakımını sağlar. Sisteme kullanıcıların kayıt edilmesi işlemlerini kontrol eder. Kullanıcıların kayıt işlemlerinde ve diğer işlemlerde yaşayabilecekleri sorunlarda, kullanıcıların sorunlarını çözer.
